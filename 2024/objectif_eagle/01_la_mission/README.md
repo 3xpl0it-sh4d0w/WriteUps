@@ -13,3 +13,11 @@ Veuillez prendre connaissance de vos documents de mission et indiquer ensuite le
 ## Investigation :
 
 Nous devons ouvrir "[REGLEMENT DU CTF](./assets/documents/REGLEMENT_DU_CTF.pdf)"
+
+Une fois le fichier ouvert chercher le **3e mot** des articles **3, 5 et 7**
+
+- **Article 3 :** `peuvent`
+- **Article 5 :** `doivent`
+- **Article 7 :** `de`
+
+####  FLAG : `peuvent_doivent_de`
