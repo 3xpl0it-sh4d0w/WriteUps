@@ -1,6 +1,6 @@
 # La Mission
 
-### Ennoncé :
+### Enoncé :
 Bienvenue au Campus Osint de la Direction de l'Industrie de Défense de la DGA.  
 Vous avez accepté la mission de mener l'enquête pour découvrir qui s'en prend à l'un de nos fleurons de la défense antidrones.
 
@@ -9,3 +9,7 @@ Veuillez prendre connaissance de vos documents de mission et indiquer ensuite le
 ```
 
 **Format de flag:** `blanc_manger_coco`
+
+## Investigation :
+
+Nous devons ouvrir "[REGLEMENT DU CTF](./assets/documents/REGLEMENT_DU_CTF.pdf)"
