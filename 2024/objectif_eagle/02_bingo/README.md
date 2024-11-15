@@ -43,4 +43,25 @@ Quel est le **montant en euros** du **contrat signé en mars 2024 par Aeroguard*
 
 - [ORDRE DE MISSION](./../01_la_mission/assets/documents/ORDRE_DE_MISSION.pdf)
 
-  - 
+  - **AEROGUARD TECHNOLOGIES**
+    - Cible d'attaques répétées depuis plusieurs semaines
+      - Vol de documents
+      - Informations techniques
+      - campagnes désinformations
+      - Attaque Informatique
+      - Tentative d'Ingérance Economique
+
+    - Nous bénificons de l'aide d'**Yves FERRANDI**, (Directeur Sureté d'Aeroguard Technologies)
+
+
+A présent, avec les éléments précedents, il me vient à l'idée de faire une recherche Google sur "Aeroguard Technologies"
+
+Dans les résultats nous avons des sites intéressants :
+
+- https://www.aeroguard-technologies.eu/
+
+Nous nous rendons sur lec site, puis allons dans la section "news"
+
+En date du 12 Mars 2024 nous voyons ceci :
+
+![](./assets/images/Screenshot%202024-11-15%20at%2001-24-57%20News%20–%20Aeroguard%20Technologies.png)
