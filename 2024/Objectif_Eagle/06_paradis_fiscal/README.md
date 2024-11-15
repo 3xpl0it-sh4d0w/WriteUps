@@ -6,7 +6,7 @@
 
 > Où est-il basé ? 
 
-### FORMAT DU FLAG : `Moldavie `
+### FORMAT DU FLAG : `Moldavie`
 
 ## INVESTIGATION :
 
