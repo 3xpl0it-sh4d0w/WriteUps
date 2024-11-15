@@ -1,7 +1,5 @@
 # 01 - LA MISSION
 
-<hr>
-
 ### ENONCE :
 
 > Bienvenue au Campus Osint de la **Direction de l'Industrie de Défense** de la **DGA**.  
@@ -13,8 +11,6 @@
 > Indiquez ensuite le **3e mot** des **articles 3, 5 et 7 du [réglement](./src/documents/REGLEMENT_DU_CTF.pdf)**.
 
 ### FORMAT DU FLAG : `blanc_manger_coco`
-
-<hr>
 
 ## INVESTIGATION :
 
