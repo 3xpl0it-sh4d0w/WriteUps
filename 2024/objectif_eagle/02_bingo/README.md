@@ -65,3 +65,5 @@ Nous nous rendons sur lec site, puis allons dans la section "news"
 En date du 12 Mars 2024 nous voyons ceci :
 
 ![](./assets/images/Screenshot%202024-11-15%20at%2001-24-57%20News%20–%20Aeroguard%20Technologies.png)
+
+**FLAG :** `20 000 000`
