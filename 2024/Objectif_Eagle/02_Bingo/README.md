@@ -13,7 +13,7 @@ Quel est le **montant en euros** du **contrat signé en mars 2024 par Aeroguard*
 
 #### ELEMENTS INTERESSANTS ISSUS DES DOCUMENTS :
 
-- [CONTEXTE](./../01_la_mission/assets/documents/CONTEXTE.pdf)
+- [CONTEXTE](./../documents/01_la_mission/contexte.pdf)
 
   - **AEROGUARD TECHNOLOGIES**
     - **LIEU :** `Angoulème, 16015, Charente, Nouvelle Aquitaine`
