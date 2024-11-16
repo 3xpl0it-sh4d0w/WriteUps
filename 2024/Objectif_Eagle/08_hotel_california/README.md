@@ -25,5 +25,6 @@
     > Laisser l'ordi à l'hôtel.
 
 5. Nous devons trouver l'hôtel où Marco à séjourné.
+    - Une longue recherche sur **Google Maps** nous donne l'**[Egg Hôtel Servan](https://maps.app.goo.gl/wsCaXaq3fiicE91v6)**.
 
-### FLAG VALIDE : ``
+### FLAG VALIDE : `egg_hotel_sevran`
