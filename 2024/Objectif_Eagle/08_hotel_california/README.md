@@ -15,12 +15,15 @@
 2. Une recherche sur [Epios](https://epieos.com/?q=marco.verecchio%40gmail.com&t=email) nous donne un lien vers son calendrier Google.
     - https://calendar.google.com/calendar/u/0/embed?src=marco.verecchio@gmail.com
 
-3. Nous pouvons voir que le **dimanche 22 juin 2022**, il y a l'évenement suivant :
+3. Nous pouvons voir que le **dimanche 12 juin 2022**, il y a l'évenement suivant :
     > **Arrivée Eurosatory 2022**
-		> *Dimanche, 12 juin 2022·16:30 à 17:30*
-		> Pour demain matin **350m + B**. Prévoir **16mn**.
-		> Laisser l'ordi à l'hôtel.
+    > 
+    > *Dimanche, 12 juin 2022·16:30 à 17:30*
+    > 
+    > Pour demain matin **350m + B**. Prévoir **16mn**.
+    > 
+    > Laisser l'ordi à l'hôtel.
 
-4. Nous devons trouver l'hôtel où Marco à séjourné.
+5. Nous devons trouver l'hôtel où Marco à séjourné.
 
 ### FLAG VALIDE : ``
