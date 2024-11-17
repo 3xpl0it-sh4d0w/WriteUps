@@ -20,7 +20,7 @@
 
 4. Sur la page "[A propos](https://www.aerodynamics-riograndese.site/fr/about/)" de ce site, nous trouvons une information interessante.
     > **Notre histoire**
-    > AeroDynamics Riograndese Ltd a été fondée en 2003 par Joaquim Alveiro Dias, un passionné de mécanique et de robotique, déterminé à faire de la **République de Riograndese** un acteur incontournable dans l'industrie des UAV. Parti d'une modeste carrière de mécanicien aéronautique, Joaquim a rapidement perçu le potentiel immense des drones, non seulement pour des applications civiles, mais aussi pour la défense et la sécurité.
+    > AeroDynamics Riograndese Ltd a été **fondée en 2003** par **Joaquim Alveiro Dias**, un passionné de mécanique et de robotique, déterminé à faire de la **République de Riograndese** un acteur incontournable dans l'industrie des UAV. Parti d'une **modeste carrière de mécanicien aéronautique**, Joaquim a rapidement perçu le potentiel immense des drones, non seulement pour des applications civiles, mais aussi pour la défense et la sécurité.
 
 5. Malheureusement, nous pouvons voir sur Wikipédia que la **République de Riograndese** n'existe plus.
     - https://fr.wikipedia.org/wiki/R%C3%A9publique_de_Riograndense
