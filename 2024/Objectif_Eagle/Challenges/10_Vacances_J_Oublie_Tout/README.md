@@ -6,7 +6,7 @@
 
 > Où était-elle en mai 2024 ? 
 
-### FORMAT DU FLAG : `inde `
+### FORMAT DU FLAG : `inde`
 
 ## INVESTIGATION :
 
