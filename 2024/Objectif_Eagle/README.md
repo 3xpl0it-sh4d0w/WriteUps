@@ -5,7 +5,7 @@
 **ORGANISATEURS :** *DGA (Direction Générale de l'Armement).*  
 **DATES :** *Du 14 Novembre au 17 Novembre 2024.*  
 **EQUIPE :** *[3xpl0it.sh4d0w](https://github.com/3xpl0it-sh4d0w) et [ILP](https://github.com/ILPlais)*  
-**CLASSEMENT :** *135 sur 229 équipes*
+**CLASSEMENT :** *134 sur 229 équipes*
 
 ## SOMMAIRE DES CHALLENGES :
 
