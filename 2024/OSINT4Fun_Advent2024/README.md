@@ -15,3 +15,4 @@
 3. [OSINT-FR](./Challenges/03_OSINT-FR)
 4. [PROJET FOX](./Challenges/04_PROJET-FOX)
 5. [OSINTOPIA](./Challenges/05_OSINTOPIA)
+6. [ISFRED](./Challenges/06_ISFRED)
