@@ -10,4 +10,3 @@
 
 ### SOMMAIRE DES CHALLENGES :
 1. [Welcome](./01_welcome)
-2. [Reportage animalier](./02_reportage_animalier)
