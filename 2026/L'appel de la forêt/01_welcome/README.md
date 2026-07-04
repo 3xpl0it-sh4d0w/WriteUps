@@ -14,7 +14,7 @@ Si vous avez des questions, n'hésitez pas à les poser dans votre canal d'équi
 
 Afin que le CTF se déroule de la meilleure manière possible, merci de lire le règlement et de retranscrire la phrase indiquée dans celui-ci.
 
-`Format : J'aime manger des tacos, surtout avec des amis`
+**Format :** `J'aime manger des tacos, surtout avec des amis`
 
 ### INVESTIGATION :
 
