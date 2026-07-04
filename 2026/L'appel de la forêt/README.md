@@ -9,4 +9,5 @@
 **LIEN DE LA PLATEFORME :** https://ctf.tacosint.fr
 
 ### SOMMAIRE DES CHALLENGES :
-+ [Welcome](./01_welcome)
+1. [Welcome](./01_welcome)
+2. [Reportage animalier](./02_reportage_animalier)
