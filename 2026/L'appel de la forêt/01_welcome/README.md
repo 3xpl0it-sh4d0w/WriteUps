@@ -1,3 +1,5 @@
+### CONTEXTE :
+
 Ce CTF est le premier organisé par notre équipe, et nous sommes fiers et heureux de vous accueillir pour participer à celui-ci !
 
 Au cours de ce CTF, votre équipe sera amenée à réaliser une enquête en se reposant sur des informations disponibles en sources ouvertes. 
@@ -13,3 +15,10 @@ Si vous avez des questions, n'hésitez pas à les poser dans votre canal d'équi
 Afin que le CTF se déroule de la meilleure manière possible, merci de lire le règlement et de retranscrire la phrase indiquée dans celui-ci.
 
 `Format : J'aime manger des tacos, surtout avec des amis`
+
+### INVESTIGATION :
+
+1. Lecture du [règlement PDF](./reglement.pdf)
+2. Article 12 section 2 le flag s'y trouve en gras
+
+**FLAG :** `J'ai lu le règlement, et je m'engage à le respecter`
