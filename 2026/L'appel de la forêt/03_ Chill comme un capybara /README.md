@@ -4,7 +4,7 @@ Vous êtes tranquillement chez vous, en train de stalker faire de l'OSINT sur ce
 
 Intrigué, vous ouvrez la porte et découvrez votre voisine paniquée : la porte de son appartement est fracturée et grande ouverte. Entre deux sanglots, vous parvenez à comprendre que son chat n'est plus dans l'appartement : elle n'était partie qu'une courte demi-heure afin de faire ses courses au supermarché du coin, Route d'Olivet semble-t-il.
 
-
+<img src="https://github.com/3xpl0it-sh4d0w/WriteUps/blob/main/2026/L'appel%20de%20la%20for%C3%AAt/03_%20Chill%20comme%20un%20capybara/Mere-Michelle_Panicked.png">
 
 Mon Malo... On m'a pris mon Malo... J'avais pourtant bien tout fermé, c'est sûr qu'il n'est pas parti... Je suis sûre que c'est des voleurs de chat, comme ils l'ont dit à la télé !
 Renée Michelle
