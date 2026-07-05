@@ -18,3 +18,7 @@ Pour débuter votre enquête, vous décidez tout d'abord de vous renseigner sur 
 Quelle est la date du décès de son mari ?
 
 **Format :** `31/12/2000`
+
+### INVESTIGATION :
+
+1. 
